@@ -1,14 +1,13 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
 export default (req, res) => {
-  const sub_domain = req.headers.host[0].split(".")[0];
+  const sub_domain = req.headers.host.split(".")[0];
 
-  const base_path = "https://leaderboard.hackclub.com/club";
+  console.log("sub domain = ", sub_domain);
 
-  let path;
+  let path = "https://leaderboard.hackclub.com";
 
-  switch (sub_domain) {
-  }
+  res.send({ sub_domain, path });
 
-  res.status(200).json({ host: sub_domain, name: "John Doe" });
+  //res.redirect(302, path);
 };
