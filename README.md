@@ -12,6 +12,12 @@ example: [https://cgc.hackclub.com](https://cgc.hackclub.com) points to Hack Clu
 
 This allows the club to have its own landing page on a custom domain!
 
+The following links have been configured via this router:
+1. [https://cgc.hackclub.com](https://cgc.hackclub.com)
+2. [https://kjcmt.hackclub.com](https://kjcmt.hackclub.com)
+1. [https://byteclub.hackclub.com](https://byteclub.hackclub.com)
+1. [https://uet.hackclub.com](https://uet.hackclub.com)
+
 ## Gallery
 
 below is an image of what a club's page looks like on the APAC leaderboard:
