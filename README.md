@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# APAC Leaderboard Router
 
-## Getting Started
+[Hack Club APAC Leaderboard](https://leaderboard.hackclub.com) is a leaderboard for all Hack Clubs in the Asia Pacific and African region!
 
-First, run the development server:
+Each page on the leaderboard has its own club page, which has its logo, custom cover image, team list, and a [scrapbook](https://scrapbook.hackclub.com) like gallery wall!
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+A lot of clubs are using this page as their landing page to share with new members and other people!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> **This router allows them to redirect their Hack Club subdomain to their respective club's page on the leaderboard!**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+example: [https://cgc.hackclub.com](https://cgc.hackclub.com) points to Hack Club CGC's club page on the leaderboard!
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+This allows the club to have its own landing page on a custom domain!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Gallery
 
-## Learn More
+below is an image of what a club's page looks like on the APAC leaderboard:
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://cloud-f6z3ncrsg-hack-club-bot.vercel.app/0image.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+below is an image of what a club's gallery looks like on the APAC leaderboard:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![image](https://cloud-g3mruwl9v-hack-club-bot.vercel.app/0image.png)
 
-## Deploy on Vercel
+## Need Help?
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you need any help you can contact Harsh Bajpai, on Hack Club Slack!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Slack Handle: Harsh Bajpai
