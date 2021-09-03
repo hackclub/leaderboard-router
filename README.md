@@ -17,6 +17,7 @@ The following links have been configured via this router:
 2. [https://kjcmt.hackclub.com](https://kjcmt.hackclub.com)
 1. [https://byteclub.hackclub.com](https://byteclub.hackclub.com)
 1. [https://uet.hackclub.com](https://uet.hackclub.com)
+1. [https://bulc.hackclub.com](https://uet.hackclub.com)
 
 ## Gallery
 
