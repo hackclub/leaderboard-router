@@ -2,7 +2,7 @@ const test = require("tape");
 const { create_path } = require("../lib/index");
 
 test.test("testign create_path utility", (t) => {
-  t.plan(7);
+  t.plan(8);
 
   t.equal("https://leaderboard.hackclub.com/club/cgc", create_path("cgc"));
 
@@ -18,6 +18,8 @@ test.test("testign create_path utility", (t) => {
   t.equal("https://leaderboard.hackclub.com/club/bulc", create_path("bulc"));
 
   t.equal("https://leaderboard.hackclub.com/club/duk", create_path("duk"));
+
+  t.equal("https://leaderboard.hackclub.com/club/nmit", create_path("nmit"));
 
   t.equal("https://leaderboard.hackclub.com", create_path("some_other_domain"));
 });

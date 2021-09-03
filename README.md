@@ -15,9 +15,11 @@ This allows the club to have its own landing page on a custom domain!
 The following links have been configured via this router:
 1. [https://cgc.hackclub.com](https://cgc.hackclub.com)
 2. [https://kjcmt.hackclub.com](https://kjcmt.hackclub.com)
-1. [https://byteclub.hackclub.com](https://byteclub.hackclub.com)
-1. [https://uet.hackclub.com](https://uet.hackclub.com)
-1. [https://bulc.hackclub.com](https://uet.hackclub.com)
+3. [https://byteclub.hackclub.com](https://byteclub.hackclub.com)
+4. [https://uet.hackclub.com](https://uet.hackclub.com)
+5. [https://bulc.hackclub.com](https://bulc.hackclub.com)
+6. [https://duk.hackclub.com](https://duk.hackclub.com)
+7. [https://nmit.hackclub.com](https://nmit.hackclub.com)
 
 ## Gallery
 
