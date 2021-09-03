@@ -6,7 +6,7 @@ export default (req, res) => {
   console.log("sub domain = ", sub_domain);
 
   let path = "https://leaderboard.hackclub.com";
-
+  //
   res.send({ sub_domain, path });
 
   //res.redirect(302, path);
