@@ -20,6 +20,7 @@ The following links have been configured via this router:
 5. [https://bulc.hackclub.com](https://bulc.hackclub.com)
 6. [https://duk.hackclub.com](https://duk.hackclub.com)
 7. [https://nmit.hackclub.com](https://nmit.hackclub.com)
+8. [https://dseu.hackclub.com](https://dseu.hackclub.com)
 
 ## Gallery
 
